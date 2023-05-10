@@ -2,7 +2,7 @@
  
 This project I made is used as a template for graphics in java. I use this template in the majority of my personal projects as it allows me to work on the primary project ideas without having to create an entire UI every time I create a new project.
 
-## main
+## Main
 
 The main folder has the important files used to run the graphics.
 
@@ -28,7 +28,7 @@ The gameframe file is where you will work on your program. You can initialize an
 
 ## Displays
 
-This folder is used when creating displays or screens to be rendered inside the Display file. These files need to be be initialized and configured inside the Dispolay file in order to be rendered. There are currently 3 displays. The menu display is used to render a template menu. The mode1 display is used when the mode is equal to "Mode1". The mode1 display is a template tile based graphics that randomizes the color of each tile every frame. The mode1 display doesn't do much right now but is a great start to your graphics program as it has a reference to the gameframe object where you can get any data that is needed for you to then render to the screen.
+The displays folder is used when creating displays or screens to be rendered inside the Display file. These files need to be be initialized and configured inside the Dispolay file in order to be rendered. There are currently 3 displays. The menu display is used to render a template menu. The mode1 display is used when the mode is equal to "Mode1". The mode1 display is a template tile based graphics that randomizes the color of each tile every frame. The mode1 display doesn't do much right now but is a great start to your graphics program as it has a reference to the gameframe object where you can get any data that is needed for you to then render to the screen.
 
 ## GameObjects
 
